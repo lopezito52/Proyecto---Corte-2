@@ -78,7 +78,9 @@ Se evaluaron dos casos:
 **Resultado destacado:** Falek Latina presentó brechas críticas en ISO 27001 y Ley 1581, incluyendo ausencia de política de seguridad de la información y falta de mecanismos para derechos ARCO.
  
 ---
- 
+### Presentacion Falek Latina Infraestructura - SEGURIDAD - NORMATIVA
+- https://www.canva.com/design/DAHHK2m2zJE/4AD5l8AlU8UjgXjN-l44zA/edit
+
 ## 🔗 Recursos y referencias
  
 Cada carpeta de taller contiene un archivo `referencias.md` con las fuentes utilizadas. Entre las principales:
